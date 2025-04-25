@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+        "$basetexture" "models\gmod_flag\flag64"
+
+	"$phong"				"1"
+	"$phongboost"			".316"
+	"$phongexponent"		"6"
+	"$lightwarptexture"		"models\gmod_flag\warp"
+	"$phongtint"			"[.85 .85 1]"
+	"$phongfresnelranges"	"[.2 .5 5]"
+	"$ambientocclusion"		"1"
+	"$halflambert" 1
+	"$rimlight" "1"				
+	"$rimlightexponent" "80"             
+ 	"$rimlightboost" ".1"	
+        "$alphatest" 1
+        "$surfaceprop" "carpet"
+}
